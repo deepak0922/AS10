@@ -7,7 +7,7 @@ export default function Navbar() {
     <div>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <Link class="navbar-brand" to="/">
-          React Linking
+          React Navigation
         </Link>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
