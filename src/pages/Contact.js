@@ -1,7 +1,5 @@
 import React from "react";
 
-import "C:/Users/Deepak/Desktop/mern/as9/node_modules/bootstrap/dist/css/bootstrap.css";
-
 export default function Contact() {
   return (
     <div>
